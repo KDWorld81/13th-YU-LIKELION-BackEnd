@@ -1,3 +1,5 @@
+package week1;
+
 public class BabyLionList {
     private BabyLion[] lions; //BabyLion을 나타내기위해 클래스명을 타입으로
     private int count;

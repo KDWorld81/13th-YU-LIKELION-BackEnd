@@ -1,3 +1,5 @@
+package week1;
+
 public class BabyLion {
     private String name; //private로 보호
     private int std_num;
